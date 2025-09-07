@@ -1,0 +1,19 @@
+---
+title: 'Same Game'
+date: '2021-02-06T20:39:09+00:00'
+author: 'Kubilay Erdogan'
+layout: page
+permalink: /samegame/
+---
+
+Legendary puzzle game is here!
+
+With all the unforgettable graphics and details, the Same Game will get you back to good ol' times.
+
+Start playing now, for free.
+
+[![Available on the App Store](/assets/img/badges/app-store.png)](https://bit.ly/samegameios)
+
+[![Get it on Google Play](/assets/img/badges/google-play.png)](https://bit.ly/samegamel)
+
+[![Play now on Facebook](/assets/img/badges/play-on-facebook.png)](https://apps.facebook.com/same-game)

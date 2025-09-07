@@ -1,0 +1,6 @@
+/* Custom CSS for kubilayerdogan.net */
+
+/* Add vertical spacing to horizontal rules */
+hr {
+  margin: 24px 0;
+}
