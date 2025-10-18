@@ -13,4 +13,3 @@ The website theme is [Minima](https://github.com/jekyll/minima), Jekyll's defaul
 Here is the list of services and tools that are in use:
 
 - Hosting: [GitHub Pages](https://pages.github.com/)
-- Comment management: [Disqus](https://disqus.com/)
