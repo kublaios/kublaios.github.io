@@ -4,15 +4,15 @@ title: Home
 permalink: /
 ---
 
-I’m an enthusiastic staff-level software engineer who not only likes to experiment with new technologies, but is also constantly focused on growth, productivity, and personal development.
+Thanks for dropping by.
 
-As a leader without authority in my role, I search and try leadership techniques all the time, continuously learning about human relationships in a professional environment.
+I’m an enthusiastic staff-level software engineer who not only likes to experiment with new technologies, but is also focused on growth, productivity, and personal development.
 
-I blog about my experiences on two free Substacks:
+I blog about those areas on two free Substacks:
 
-- [The Sigma Newsletter](https://sigmanewsletter.substack.com) — A blog about growth and productivity. Sigma stands for "Stuck in a Growth Mindset, Always".
-- [Arbitrary Bits](https://arbitrarybits.substack.com) — My tech blog where I post about software and technology.
+- [The Sigma Newsletter](https://sigmanewsletter.substack.com) — My growth and productivity blog. Sigma stands for "Stuck in a Growth Mindset, Always".
+- [Arbitrary Bits](https://arbitrarybits.substack.com) — My tech blog for software and technology.
 
-## Contact
+I also like contributing to open source by deploying code I write in my free times. You can find my work on [GitHub](https://github.com/kublaios). If you want to get in touch, you can reach out to me on [social media](https://twitter.com/iosswift).
 
-You can find my work on [GitHub](https://github.com/kublaios) or reach out to me on [social media](https://twitter.com/iosswift).
+Have a great day.

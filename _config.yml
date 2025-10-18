@@ -20,7 +20,7 @@
 
 title: Kubilay Erdogan Home Page
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a blog about software, technology, and, inevitably, life.
+  A software engineer's quick introduction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 'https://www.kubilayerdogan.net'
 name: 'Kubilay Erdogan'
