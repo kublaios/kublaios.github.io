@@ -1,0 +1,20 @@
+---
+layout: nil
+---
+{% assign target = page.redirect_to | default: 'https://arbitrarybits.substack.com' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | escape }}</title>
+  <meta http-equiv="refresh" content="0; url={{ target }}">
+  <link rel="canonical" href="{{ target }}">
+  <meta name="robots" content="noindex">
+  <script>
+    window.location.replace('{{ target }}');
+  </script>
+</head>
+<body>
+  <p>This post has moved to <a href="{{ target }}">{{ target }}</a>.</p>
+</body>
+</html>
