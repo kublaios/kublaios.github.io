@@ -40,8 +40,8 @@ plugins:
 # Header pages - explicitly list pages to appear in navigation
 header_pages:
   - home.markdown
-  - about.markdown
-  - reading.markdown
+  - sigma.markdown
+  - arbitrary-bits.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
