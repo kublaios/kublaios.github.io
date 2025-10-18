@@ -4,9 +4,9 @@ title: Home
 permalink: /
 ---
 
-I'm an enthusiastic software engineer who not only likes to experiment with new technologies, but is also constantly focused on growth, productivity, and personal development.
+I’m an enthusiastic staff-level software engineer who not only likes to experiment with new technologies, but is also constantly focused on growth, productivity, and personal development.
 
-As a leader without authority in my role, I search and try leadership techniques all the time, continuously learning new things about human relationships in a professional environment.
+As a leader without authority in my role, I search and try leadership techniques all the time, continuously learning about human relationships in a professional environment.
 
 I blog about my experiences on two free Substacks:
 
