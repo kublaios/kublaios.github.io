@@ -1,9 +1,14 @@
 ---
 title: 'Same Game'
-date: '2021-02-06T20:39:09+00:00'
+date: '2021-02-06T00:00:00+00:00'
 author: 'Kubilay Erdogan'
-layout: page
+layout: post
 permalink: /samegame/
+categories:
+    - 'Blog Posts'
+tags:
+    - Games
+    - Mobile
 ---
 
 Legendary puzzle game is here!
